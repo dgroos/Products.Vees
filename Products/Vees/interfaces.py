@@ -310,6 +310,407 @@ Explicitly stating important assumptions and evaluating them in light of
 
 other reasonable assumptions is usually enough.""",
         'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Methods',
+        'section_goal': 'How did you make your observations and analyze'
+                        'your data?',
+        'section_tasks': """How to best describe your methods:
+Describe only methods you use in your study. Include enough detail so your
+
+peers can replicate your observations if they have your materials. Be
+
+sensitive to limitations in your claims caused by assumptions in your methods.
+
+1. Write out the specific individual steps you do to make your raw
+
+observations. Include all aspects that you consider to be important for
+
+someone who would like to repeat your observations. 
+
+2. Do the same for the methods you plan to use when you analyze your
+
+observations.
+
+3. How do you expect the choice of your methods to impact your observations?
+
+What are other limitations of your methods?
+
+4. If possible, draw an easy to understand overview picture of your
+
+methods and how they relate to materials you use.""",
+        'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Glossary',
+        'section_goal': 'Dictionary of key words. Define all important '
+                        'words and concepts needed for understanding '
+                        'all other sections.',
+        'section_tasks': """How to write a good glossary:
+
+Often researchers develop their own language when needed, as it is easier
+
+to use the science terms of their field to communicate their research. While
+
+they should avoid jargon where they can, new words and special terms are
+
+sometimes unavoidable. Your glossary is like a dictionary that helps the
+
+rest of us to understand your research.
+
+1. When you talk about anything related to your study of the focus
+
+question, are there special words you would use that are not commonly
+
+used in that way (or at all)?
+
+2. Are there special words related to the methods (or equipment) you use?
+
+3. List all these words and give a simple definition, ideally one that your
+
+grandmother would understand and if that is not possible, one that makes
+
+sense to your peers.
+
+4. Provide references and stick to accepted “fair use” guidelines if you cite
+
+other works.""",
+        'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Glossary',
+        'section_goal': 'Dictionary of key words. Define all important '
+                        'words and concepts needed for understanding '
+                        'all other sections.',
+        'section_tasks': """How to write a good glossary:
+
+Often researchers develop their own language when needed, as it is easier
+
+to use the science terms of their field to communicate their research. While
+
+they should avoid jargon where they can, new words and special terms are
+
+sometimes unavoidable. Your glossary is like a dictionary that helps the
+
+rest of us to understand your research.
+
+1. When you talk about anything related to your study of the focus
+
+question, are there special words you would use that are not commonly
+
+used in that way (or at all)?
+
+2. Are there special words related to the methods (or equipment) you use?
+
+3. List all these words and give a simple definition, ideally one that your
+
+grandmother would understand and if that is not possible, one that makes
+
+sense to your peers.
+
+4. Provide references and stick to accepted “fair use” guidelines if you cite
+
+other works.""",
+        'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Glossary',
+        'section_goal': 'Dictionary of key words. Define all important '
+                        'words and concepts needed for understanding '
+                        'all other sections.',
+        'section_tasks': """How to write a good glossary:
+
+Often researchers develop their own language when needed, as it is easier
+
+to use the science terms of their field to communicate their research. While
+
+they should avoid jargon where they can, new words and special terms are
+
+sometimes unavoidable. Your glossary is like a dictionary that helps the
+
+rest of us to understand your research.
+
+1. When you talk about anything related to your study of the focus
+
+question, are there special words you would use that are not commonly
+
+used in that way (or at all)?
+
+2. Are there special words related to the methods (or equipment) you use?
+
+3. List all these words and give a simple definition, ideally one that your
+
+grandmother would understand and if that is not possible, one that makes
+
+sense to your peers.
+
+4. Provide references and stick to accepted “fair use” guidelines if you cite
+
+other works.""",
+        'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Glossary',
+        'section_goal': 'Dictionary of key words. Define all important '
+                        'words and concepts needed for understanding '
+                        'all other sections.',
+        'section_tasks': """How to write a good glossary:
+
+Often researchers develop their own language when needed, as it is easier
+
+to use the science terms of their field to communicate their research. While
+
+they should avoid jargon where they can, new words and special terms are
+
+sometimes unavoidable. Your glossary is like a dictionary that helps the
+
+rest of us to understand your research.
+
+1. When you talk about anything related to your study of the focus
+
+question, are there special words you would use that are not commonly
+
+used in that way (or at all)?
+
+2. Are there special words related to the methods (or equipment) you use?
+
+3. List all these words and give a simple definition, ideally one that your
+
+grandmother would understand and if that is not possible, one that makes
+
+sense to your peers.
+
+4. Provide references and stick to accepted “fair use” guidelines if you cite
+
+other works.""",
+        'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Glossary',
+        'section_goal': 'Dictionary of key words. Define all important '
+                        'words and concepts needed for understanding '
+                        'all other sections.',
+        'section_tasks': """How to write a good glossary:
+
+Often researchers develop their own language when needed, as it is easier
+
+to use the science terms of their field to communicate their research. While
+
+they should avoid jargon where they can, new words and special terms are
+
+sometimes unavoidable. Your glossary is like a dictionary that helps the
+
+rest of us to understand your research.
+
+1. When you talk about anything related to your study of the focus
+
+question, are there special words you would use that are not commonly
+
+used in that way (or at all)?
+
+2. Are there special words related to the methods (or equipment) you use?
+
+3. List all these words and give a simple definition, ideally one that your
+
+grandmother would understand and if that is not possible, one that makes
+
+sense to your peers.
+
+4. Provide references and stick to accepted “fair use” guidelines if you cite
+
+other works.""",
+        'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Glossary',
+        'section_goal': 'Dictionary of key words. Define all important '
+                        'words and concepts needed for understanding '
+                        'all other sections.',
+        'section_tasks': """How to write a good glossary:
+
+Often researchers develop their own language when needed, as it is easier
+
+to use the science terms of their field to communicate their research. While
+
+they should avoid jargon where they can, new words and special terms are
+
+sometimes unavoidable. Your glossary is like a dictionary that helps the
+
+rest of us to understand your research.
+
+1. When you talk about anything related to your study of the focus
+
+question, are there special words you would use that are not commonly
+
+used in that way (or at all)?
+
+2. Are there special words related to the methods (or equipment) you use?
+
+3. List all these words and give a simple definition, ideally one that your
+
+grandmother would understand and if that is not possible, one that makes
+
+sense to your peers.
+
+4. Provide references and stick to accepted “fair use” guidelines if you cite
+
+other works.""",
+        'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Glossary',
+        'section_goal': 'Dictionary of key words. Define all important '
+                        'words and concepts needed for understanding '
+                        'all other sections.',
+        'section_tasks': """How to write a good glossary:
+
+Often researchers develop their own language when needed, as it is easier
+
+to use the science terms of their field to communicate their research. While
+
+they should avoid jargon where they can, new words and special terms are
+
+sometimes unavoidable. Your glossary is like a dictionary that helps the
+
+rest of us to understand your research.
+
+1. When you talk about anything related to your study of the focus
+
+question, are there special words you would use that are not commonly
+
+used in that way (or at all)?
+
+2. Are there special words related to the methods (or equipment) you use?
+
+3. List all these words and give a simple definition, ideally one that your
+
+grandmother would understand and if that is not possible, one that makes
+
+sense to your peers.
+
+4. Provide references and stick to accepted “fair use” guidelines if you cite
+
+other works.""",
+        'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Glossary',
+        'section_goal': 'Dictionary of key words. Define all important '
+                        'words and concepts needed for understanding '
+                        'all other sections.',
+        'section_tasks': """How to write a good glossary:
+
+Often researchers develop their own language when needed, as it is easier
+
+to use the science terms of their field to communicate their research. While
+
+they should avoid jargon where they can, new words and special terms are
+
+sometimes unavoidable. Your glossary is like a dictionary that helps the
+
+rest of us to understand your research.
+
+1. When you talk about anything related to your study of the focus
+
+question, are there special words you would use that are not commonly
+
+used in that way (or at all)?
+
+2. Are there special words related to the methods (or equipment) you use?
+
+3. List all these words and give a simple definition, ideally one that your
+
+grandmother would understand and if that is not possible, one that makes
+
+sense to your peers.
+
+4. Provide references and stick to accepted “fair use” guidelines if you cite
+
+other works.""",
+        'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Glossary',
+        'section_goal': 'Dictionary of key words. Define all important '
+                        'words and concepts needed for understanding '
+                        'all other sections.',
+        'section_tasks': """How to write a good glossary:
+
+Often researchers develop their own language when needed, as it is easier
+
+to use the science terms of their field to communicate their research. While
+
+they should avoid jargon where they can, new words and special terms are
+
+sometimes unavoidable. Your glossary is like a dictionary that helps the
+
+rest of us to understand your research.
+
+1. When you talk about anything related to your study of the focus
+
+question, are there special words you would use that are not commonly
+
+used in that way (or at all)?
+
+2. Are there special words related to the methods (or equipment) you use?
+
+3. List all these words and give a simple definition, ideally one that your
+
+grandmother would understand and if that is not possible, one that makes
+
+sense to your peers.
+
+4. Provide references and stick to accepted “fair use” guidelines if you cite
+
+other works.""",
+        'max_height': 100
+    }, {
+        'hide': False,
+        'location': 'l4',
+        'section_title': u'Glossary',
+        'section_goal': 'Dictionary of key words. Define all important '
+                        'words and concepts needed for understanding '
+                        'all other sections.',
+        'section_tasks': """How to write a good glossary:
+
+Often researchers develop their own language when needed, as it is easier
+
+to use the science terms of their field to communicate their research. While
+
+they should avoid jargon where they can, new words and special terms are
+
+sometimes unavoidable. Your glossary is like a dictionary that helps the
+
+rest of us to understand your research.
+
+1. When you talk about anything related to your study of the focus
+
+question, are there special words you would use that are not commonly
+
+used in that way (or at all)?
+
+2. Are there special words related to the methods (or equipment) you use?
+
+3. List all these words and give a simple definition, ideally one that your
+
+grandmother would understand and if that is not possible, one that makes
+
+sense to your peers.
+
+4. Provide references and stick to accepted “fair use” guidelines if you cite
+
+other works.""",
+        'max_height': 100
     }
 
 
