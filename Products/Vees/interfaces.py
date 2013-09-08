@@ -644,43 +644,6 @@ field? In other fields? Generally?
 
 3. Funding: Who might pay for such research?""",
         'max_height': 100
-    }, {
-        'hide': False,
-        'location': 'l4',
-        'section_title': u'Glossary',
-        'section_goal': 'Dictionary of key words. Define all important '
-                        'words and concepts needed for understanding '
-                        'all other sections.',
-        'section_tasks': """How to write a good glossary:
-
-Often researchers develop their own language when needed, as it is easier
-
-to use the science terms of their field to communicate their research. While
-
-they should avoid jargon where they can, new words and special terms are
-
-sometimes unavoidable. Your glossary is like a dictionary that helps the
-
-rest of us to understand your research.
-
-1. When you talk about anything related to your study of the focus
-
-question, are there special words you would use that are not commonly
-
-used in that way (or at all)?
-
-2. Are there special words related to the methods (or equipment) you use?
-
-3. List all these words and give a simple definition, ideally one that your
-
-grandmother would understand and if that is not possible, one that makes
-
-sense to your peers.
-
-4. Provide references and stick to accepted “fair use” guidelines if you cite
-
-other works.""",
-        'max_height': 100
     }
 
 
