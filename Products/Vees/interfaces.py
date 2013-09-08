@@ -312,7 +312,7 @@ other reasonable assumptions is usually enough.""",
         'max_height': 100
     }, {
         'hide': False,
-        'location': 'l4',
+        'location': 'l2',
         'section_title': u'Methods',
         'section_goal': 'How did you make your observations and analyze'
                         'your data?',
@@ -343,82 +343,78 @@ methods and how they relate to materials you use.""",
         'max_height': 100
     }, {
         'hide': False,
-        'location': 'l4',
-        'section_title': u'Glossary',
-        'section_goal': 'Dictionary of key words. Define all important '
-                        'words and concepts needed for understanding '
-                        'all other sections.',
-        'section_tasks': """How to write a good glossary:
+        'location': 'l1',
+        'section_title': u'Materials',
+        'section_goal': 'Describe the materials you use to make the '
+                        ' observations reported in your study.',
+        'section_tasks': """How to best describe your materials:
 
-Often researchers develop their own language when needed, as it is easier
+1. Describe any tangible materials, samples or other sources that you
 
-to use the science terms of their field to communicate their research. While
+use to make your observations. Describe their quality and where you obtained
 
-they should avoid jargon where they can, new words and special terms are
+them. Give references as needed.
 
-sometimes unavoidable. Your glossary is like a dictionary that helps the
+2. Provide enough detail that your peers can replicate your observations if
 
-rest of us to understand your research.
+they use your methods.
 
-1. When you talk about anything related to your study of the focus
+3. Argue why you chose the materials you chose. Are these appropriate in
 
-question, are there special words you would use that are not commonly
+light of the focus question? 
 
-used in that way (or at all)?
+4. How do you expect the choice of your materials to impact your observations?
 
-2. Are there special words related to the methods (or equipment) you use?
+Be sensitive to potential limitations in your claims caused by the choice of
 
-3. List all these words and give a simple definition, ideally one that your
-
-grandmother would understand and if that is not possible, one that makes
-
-sense to your peers.
-
-4. Provide references and stick to accepted “fair use” guidelines if you cite
-
-other works.""",
+your materials.""",
         'max_height': 100
     }, {
         'hide': False,
-        'location': 'l4',
-        'section_title': u'Glossary',
-        'section_goal': 'Dictionary of key words. Define all important '
-                        'words and concepts needed for understanding '
-                        'all other sections.',
-        'section_tasks': """How to write a good glossary:
+        'location': 'Bot.',
+        'section_title': u'Raw Data',
+        'section_goal': 'Report low-level observations as made, without '
+                        'analyzing or filtering.',
+        'section_tasks': """How to best report your raw data:
 
-Often researchers develop their own language when needed, as it is easier
+This reflects the “Raw Data” part of your research log book if you have one.
 
-to use the science terms of their field to communicate their research. While
+Everything gets recorded chronologically.
 
-they should avoid jargon where they can, new words and special terms are
+1. Consult your research community to follow accepted standards for reporting
 
-sometimes unavoidable. Your glossary is like a dictionary that helps the
+raw data. Only develop new forms if no appropriate standard exists already.
 
-rest of us to understand your research.
+If your data is simple, use tables, texts, images or similar forms to
 
-1. When you talk about anything related to your study of the focus
+represent raw data.
 
-question, are there special words you would use that are not commonly
+2. Label everything appropriately, so others (including yourself in 2 years
 
-used in that way (or at all)?
+time) still stand a chance to understand what you reported.
 
-2. Are there special words related to the methods (or equipment) you use?
+3. Provide context: Many details of your study seem obvious while you do it,
 
-3. List all these words and give a simple definition, ideally one that your
+but unless you write them down, they will be deeply puzzling to everybody else.
 
-grandmother would understand and if that is not possible, one that makes
+4. Reliability: record any information or data that can later help assess the
 
-sense to your peers.
+reliability of the data you report.
 
-4. Provide references and stick to accepted “fair use” guidelines if you cite
+5. If appropriate and possible, put your raw data in a public database and cite
 
-other works.""",
+only the accession numbers here.
+
+6. Do not report a “data dump”. Make intelligent choices about what to record
+
+and how to organize it based on the focus question and avoid filling up storage
+
+space with irrelevant details.""",
         'max_height': 100
     }, {
         'hide': False,
-        'location': 'l4',
-        'section_title': u'Glossary',
+        'location': 'r1',
+        'section_title': u'Data Summary',
         'section_goal': 'Dictionary of key words. Define all important '
                         'words and concepts needed for understanding '
                         'all other sections.',
