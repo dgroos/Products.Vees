@@ -415,158 +415,184 @@ space with irrelevant details.""",
         'hide': False,
         'location': 'r1',
         'section_title': u'Data Summary',
-        'section_goal': 'Dictionary of key words. Define all important '
-                        'words and concepts needed for understanding '
-                        'all other sections.',
-        'section_tasks': """How to write a good glossary:
+        'section_goal': 'Summarize data to highlight patterns that support '
+                        'your claim or that invalidate your claim.',
+        'section_tasks': """How to best summarize your data:
 
-Often researchers develop their own language when needed, as it is easier
+You can only summarize your data appropriately when you know which claim
 
-to use the science terms of their field to communicate their research. While
+(or hypothesis) you want to test. This will guide your choice of methods
 
-they should avoid jargon where they can, new words and special terms are
+for summarizing data. Your summary of data should make explicit what you
 
-sometimes unavoidable. Your glossary is like a dictionary that helps the
+are doing in the process of summarizing. 
 
-rest of us to understand your research.
+This section reflects the “Data Analysis” part of your research log book
 
-1. When you talk about anything related to your study of the focus
+if you have one. Everything gets recorded chronologically; filtering out
 
-question, are there special words you would use that are not commonly
+‘boring’ analyses happens at a later stage.
 
-used in that way (or at all)?
+For each section of your data summary do the following:
 
-2. Are there special words related to the methods (or equipment) you use?
+1. State the focus of your summary: Which small question, hypothesis or
 
-3. List all these words and give a simple definition, ideally one that your
+idea are you testing? Write it down.
 
-grandmother would understand and if that is not possible, one that makes
+2. Decide what analysis, transformation or statistic best shows the
 
-sense to your peers.
+difference (or similarity) you want to highlight. Find appropriate
 
-4. Provide references and stick to accepted “fair use” guidelines if you cite
+representations like graphs, tables, categorizations, statistics etc that
 
-other works.""",
+highlight patterns in the data you want to demonstrate for documenting
+
+your claim. Then try to prove the opposite from your data to see if you
+
+have a solid claim or whether the data is inconclusive.
+
+3. Apply a statistical test to see if your observations could also have
+
+been generated if the most boring alternative explanation answering your
+
+question was true.
+
+4. Prepare a convincing and cleaned up presentation of your analyzed data
+
+in table or graph form.
+
+5. Provide appropriate labels and explanations and summarize the conclusions
+
+of each section in an appropriate sentence.
+
+6. Do not repeat the Methods or Raw Data sections here, but rather focus on
+
+analyses close to the data. Leave all interpretations for later sections.
+
+7. Do not omit data that does not fit your expectations! Do not omit analyses
+
+that lead to ‘boring’ results, where you would have expected ‘exciting’
+
+results. If done properly, much can be learned from the discussion of such
+
+analyses.""",
         'max_height': 100
     }, {
         'hide': False,
-        'location': 'l4',
-        'section_title': u'Glossary',
-        'section_goal': 'Dictionary of key words. Define all important '
-                        'words and concepts needed for understanding '
-                        'all other sections.',
-        'section_tasks': """How to write a good glossary:
+        'location': 'r2',
+        'section_title': u'Results',
+        'section_goal': 'Summarize the broader interesting patterns you see '
+                        'in your observations after you have analyzed the '
+                        'data.',
+        'section_tasks': """How to best describe your results:
 
-Often researchers develop their own language when needed, as it is easier
+Results build on the Data Summary section and highlight the most relevant
 
-to use the science terms of their field to communicate their research. While
+analyses from the previous section with respect to the focus question.
 
-they should avoid jargon where they can, new words and special terms are
+1. Describe at a high level but without generalizing which patterns you
 
-sometimes unavoidable. Your glossary is like a dictionary that helps the
+find in your observations. Point to specific results that are interesting
 
-rest of us to understand your research.
+without getting lost in details.
 
-1. When you talk about anything related to your study of the focus
+2. Uninteresting results get only a very brief mention, even if producing
 
-question, are there special words you would use that are not commonly
+them was a lot of work.
 
-used in that way (or at all)?
+3. Be careful not to bias your reporting of results for or against certain
 
-2. Are there special words related to the methods (or equipment) you use?
+ideas. All results relevant for addressing the focus question need to be
 
-3. List all these words and give a simple definition, ideally one that your
+discussed.
 
-grandmother would understand and if that is not possible, one that makes
+4. Be careful to distinguish between correlation and causation. Silly
 
-sense to your peers.
+example: Correct correlation: “Everybody who went to the moon has two legs.”
 
-4. Provide references and stick to accepted “fair use” guidelines if you cite
+False causation: “Having two legs makes you go to the moon!” Real examples
 
-other works.""",
+appear less silly, but are not more correct.
+
+5. Do not repeat the previous section, but rather provide a high-level
+
+overview of the results of the analyses performed in the previous section.""",
         'max_height': 100
     }, {
         'hide': False,
-        'location': 'l4',
-        'section_title': u'Glossary',
-        'section_goal': 'Dictionary of key words. Define all important '
-                        'words and concepts needed for understanding '
-                        'all other sections.',
-        'section_tasks': """How to write a good glossary:
+        'location': 'r3',
+        'section_title': u'Limits',
+        'section_goal': 'Describe limitations of observations and weaknesses '
+                        'of the methods and how they affect claims.',
+        'section_tasks': """How to best describe limitations and weaknesses:
+        
+Every study that is not a correct mathematical proof has limitations and
 
-Often researchers develop their own language when needed, as it is easier
+weaknesses. Here these are defined by
 
-to use the science terms of their field to communicate their research. While
+(i) the broader claims of a study and
 
-they should avoid jargon where they can, new words and special terms are
+(ii) the inability to rigorously justify that these claims are accurate
 
-sometimes unavoidable. Your glossary is like a dictionary that helps the
+under all circumstances. Some limitations are silly (“You have not checked
 
-rest of us to understand your research.
+if this is true on the Moon”), others are serious (“A fellow researcher could
 
-1. When you talk about anything related to your study of the focus
+not replicate these results”). It is important to investigate the key limits.
 
-question, are there special words you would use that are not commonly
+Good research is aware of its own limitations and shows that. Bad research
 
-used in that way (or at all)?
+does not care about its own limitations.
 
-2. Are there special words related to the methods (or equipment) you use?
+1. List limits of your observations you think are important.
 
-3. List all these words and give a simple definition, ideally one that your
+2. List weaknesses of your methods you think are important.
 
-grandmother would understand and if that is not possible, one that makes
+3. Describe how these could affect your claims.
 
-sense to your peers.
+4. Discuss if they actually affect your claims.
 
-4. Provide references and stick to accepted “fair use” guidelines if you cite
-
-other works.""",
+5. What could be done to address these weaknesses?""",
         'max_height': 100
     }, {
         'hide': False,
-        'location': 'l4',
-        'section_title': u'Glossary',
-        'section_goal': 'Dictionary of key words. Define all important '
-                        'words and concepts needed for understanding '
-                        'all other sections.',
-        'section_tasks': """How to write a good glossary:
+        'location': 'r4',
+        'section_title': u'Claims',
+        'section_goal': 'What about the focus question have you learned '
+                        'from your observations?',
+        'section_tasks': """How to best find and describe valid claims:
 
-Often researchers develop their own language when needed, as it is easier
+A new claim is only valid if it can be justified by corresponding
 
-to use the science terms of their field to communicate their research. While
+observations and analyses. Try to take the position of a critic. If you
 
-they should avoid jargon where they can, new words and special terms are
+would find your analysis convincing, even if it would go against your
 
-sometimes unavoidable. Your glossary is like a dictionary that helps the
+beliefs, then you probably have a valid claim. A better test is to have a
 
-rest of us to understand your research.
+real critic look at your analysis, which is the purpose of peer review.
 
-1. When you talk about anything related to your study of the focus
+After you are convinced your claims survive such a critical look, try to
 
-question, are there special words you would use that are not commonly
+answer the focus question in one sentence to summarize all your claims.
+For each claim do the following:
 
-used in that way (or at all)?
+1. Summarize the claim in one sentence or paragraph.
 
-2. Are there special words related to the methods (or equipment) you use?
+2. Explain the claim: How is it supported by your observations and how
 
-3. List all these words and give a simple definition, ideally one that your
+does it relate to existing big ideas about the focus question?
 
-grandmother would understand and if that is not possible, one that makes
+3. Other lessons learned: New questions? Improvements for your methods?
 
-sense to your peers.
-
-4. Provide references and stick to accepted “fair use” guidelines if you cite
-
-other works.""",
+Other lessons?""",
         'max_height': 100
     }, {
         'hide': False,
-        'location': 'l4',
-        'section_title': u'Glossary',
-        'section_goal': 'Dictionary of key words. Define all important '
-                        'words and concepts needed for understanding '
-                        'all other sections.',
-        'section_tasks': """How to write a good glossary:
+        'location': 'r5',
+        'section_title': u'Importance',
+        'section_goal': 'How important is this study in the field?',
+        'section_tasks': """How to best assess the importance of this study:
 
 Often researchers develop their own language when needed, as it is easier
 
